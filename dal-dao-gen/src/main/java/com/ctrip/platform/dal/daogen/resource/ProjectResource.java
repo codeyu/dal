@@ -364,8 +364,8 @@ public class ProjectResource {
     /**
      * 一键添加project缺失的databaseSet
      *
-     * @param project_id
-     * @return
+     * @param project_id 项目ID
+     * @return Status
      */
     @POST
     @Path("addLackDbset")

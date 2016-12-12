@@ -21,7 +21,6 @@ import java.util.*;
  * DAL database of group manage.
  *
  * @author gzxia
- * @modified yn.wang
  */
 
 @Resource
@@ -327,7 +326,9 @@ public class DalGroupDbResource {
     /**
      * 生成默认的databaseSet和databaseSet Entry
      *
-     * @param dbname
+     * @param groupId groupId
+     * @param dbname  dbname
+     * @return Status
      */
     public static Status genDefaultDbset(int groupId, String dbname) {
         Status status = Status.OK;

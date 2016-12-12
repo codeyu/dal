@@ -42,7 +42,7 @@
         <javax-persistence-version>1.0.2</javax-persistence-version>
         <jsqlparser-version>0.9</jsqlparser-version>
         <junit-version>4.4</junit-version>
-        <sqljdbc-version>4.0.2206</sqljdbc-version>
+        <mssql-jdbc-version>6.1.0.jre8</mssql-jdbc-version>
         <tomcat-jdbc-version>7.0.52</tomcat-jdbc-version>
     </properties>
     <dependencies>
@@ -58,8 +58,8 @@
         </dependency>
         <dependency>
             <groupId>com.microsoft.sqlserver</groupId>
-            <artifactId>sqljdbc</artifactId>
-            <version>${sqljdbc-version}</version>
+            <artifactId>mssql-jdbc</artifactId>
+            <version>${mssql-jdbc-version}</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>

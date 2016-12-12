@@ -16,7 +16,7 @@ import javax.ws.rs.core.MediaType;
 import java.util.List;
 
 /**
- * DAL Project & Code 一览
+ * DAL Project 和 Code 一览
  *
  * @author gzxia
  */

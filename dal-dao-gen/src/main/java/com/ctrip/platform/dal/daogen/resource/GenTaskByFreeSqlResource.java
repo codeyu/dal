@@ -26,7 +26,7 @@ import java.util.List;
  * 复杂查询（额外生成实体类）
  *
  * @author gzxia
- * @modified yn.wang
+ * @author yn.wang
  */
 
 @Resource

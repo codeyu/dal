@@ -21,7 +21,7 @@ import java.util.regex.Pattern;
  * DAL databaseSet of group manage.
  *
  * @author gzxia
- * @modified yn.wang
+ * @author yn.wang
  */
 
 @Resource

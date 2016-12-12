@@ -23,7 +23,7 @@ import java.util.List;
  * 生成模板(包含基础的增删改查操作)
  *
  * @author gzxia
- * @modified yn.wang
+ * @author yn.wang
  */
 
 @Resource

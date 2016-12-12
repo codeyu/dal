@@ -18,7 +18,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * @author gzxia
- * @modified yn.wang
+ * @author yn.wang
  */
 
 @Resource

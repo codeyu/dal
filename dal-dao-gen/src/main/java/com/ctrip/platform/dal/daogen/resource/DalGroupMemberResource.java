@@ -21,7 +21,7 @@ import java.util.List;
  * DAL Member Manage.
  *
  * @author gzxia
- * @modified yn.wang
+ * @author yn.wang
  */
 
 @Resource
